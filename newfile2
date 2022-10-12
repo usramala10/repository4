@@ -13,6 +13,10 @@ for(int j=0;j<3;j++){
 c[i][j]=a[i][j]+b[i][j];    //use - for subtraction  
 ## featuresC has chages done by geeta
 //use / for division
+c[i][j]=a[i][j]+b[i][j];    //use - for subtraction
+## featuresA has chages done by siri  
+//use * for multiplication
+
 System.out.print(c[i][j]+" ");    
 }    
 System.out.println();//new line    
